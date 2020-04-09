@@ -1,11 +1,6 @@
 import React, { Component } from "react";
 
 class Coin extends Component {
-  static defaultProps = {
-    flips: 0,
-    heads: 0,
-    tails: 0,
-  };
   render() {
     return (
       <div>
