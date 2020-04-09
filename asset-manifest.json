@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Flip-IT/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Flip-IT/static/js/main.82f886d9.chunk.js",
+    "main.js.map": "/Flip-IT/static/js/main.82f886d9.chunk.js.map",
+    "runtime-main.js": "/Flip-IT/static/js/runtime-main.8d058dd2.js",
+    "runtime-main.js.map": "/Flip-IT/static/js/runtime-main.8d058dd2.js.map",
+    "static/js/2.c86959d4.chunk.js": "/Flip-IT/static/js/2.c86959d4.chunk.js",
+    "static/js/2.c86959d4.chunk.js.map": "/Flip-IT/static/js/2.c86959d4.chunk.js.map",
+    "index.html": "/Flip-IT/index.html",
+    "precache-manifest.bc86ab83db46ba400caeb28cb2e9d616.js": "/Flip-IT/precache-manifest.bc86ab83db46ba400caeb28cb2e9d616.js",
+    "service-worker.js": "/Flip-IT/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Flip-IT/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c86959d4.chunk.js.LICENSE.txt": "/Flip-IT/static/js/2.c86959d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d058dd2.js",
+    "static/js/2.c86959d4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.82f886d9.chunk.js"
+  ]
+}
